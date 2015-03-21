@@ -1,5 +1,5 @@
 {
-    "name": "acme/blog",
+    "name": "test/test-packag",
     "repositories": [
         {
             "type": "vcs",
